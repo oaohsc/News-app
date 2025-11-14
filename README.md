@@ -21,7 +21,7 @@ A modern, AI-powered news web application that fetches news by categories and pr
 
 2. **Configure API Keys**
    
-   Create a `.env` file in the root directory:
+   put your api key on the .env file
    ```env
    VITE_NEWS_API_KEY=your_news_api_key_here
    VITE_OPENAI_API_KEY=your_openai_api_key_here
