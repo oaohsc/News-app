@@ -1,7 +1,7 @@
 # AI News App
-
+<img width="2526" height="1311" alt="Image" src="https://github.com/user-attachments/assets/04794578-ed1e-4111-bfc3-0f4992ab3bfd" />
 AI-powered news web application that fetches news by categories and provides intelligent features like asking questions about articles and summarizing news categories.
-<!-- Uploading "Screenshot 2025-11-14 075325.png"... -->
+
 ## Features
 
 - 📰 **Category-based News**: Browse news by categories (Sports, Technology, Business, Entertainment, Health, Science, General)
