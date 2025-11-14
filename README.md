@@ -1,7 +1,7 @@
 # AI News App
 
-A modern, AI-powered news web application that fetches news by categories and provides intelligent features like asking questions about articles and summarizing news categories.
-
+AI-powered news web application that fetches news by categories and provides intelligent features like asking questions about articles and summarizing news categories.
+<!-- Uploading "Screenshot 2025-11-14 075325.png"... -->
 ## Features
 
 - 📰 **Category-based News**: Browse news by categories (Sports, Technology, Business, Entertainment, Health, Science, General)
